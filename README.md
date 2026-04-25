@@ -1,12 +1,13 @@
-### hi 👋
+hi, i'm sehaz.
 
-i build things on the internet.  
-sometimes they work. sometimes they turn into feature-shaped regrets.
+computer science student.
+full-stack developer.
+professional starter of ambitious side projects.
 
-currently exploring:
-- web dev & design
-- clean, intentional interfaces
-- ideas that start small and get dangerous
+currently building things across:
+- software
+- design
+- music
+- writing
 
-recent mood:
-> shipping quietly, learning loudly.
+most of them start as bad ideas at 2am.
