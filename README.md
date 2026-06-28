@@ -4,10 +4,6 @@ computer science student.
 full-stack developer.
 professional starter of ambitious side projects.
 
-currently building things across:
-- software
-- design
-- music
-- writing
-
-most of them start as bad ideas at 2am.
+currently making
+- Bloom : A cool caelestia and macos inspired desktop shell for windows
+- Jen : A voice assistant for windows that does most of the boring work for you
